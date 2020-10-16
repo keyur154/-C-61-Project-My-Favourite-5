@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    color: red;
+    font-size: 35px;
+    font-family: cursive;
+    background-color: aqua;
+}
+
+.image {
+    width: 30%;
+}
